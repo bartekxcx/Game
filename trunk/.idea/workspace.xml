@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="GameBaja" targetName="LibraryTest" />
+      <config projectName="GameBaja" targetName="check" />
+      <config projectName="GameBaja" targetName="Program" />
+      <config projectName="GameBaja" targetName="Library" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="156001db-472b-4264-8659-faa5fde58e18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GameBaja.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GameBaja.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/CTestCostData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Battlefield.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Battlefield.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Game.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Game.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Hand.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Hand.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Pillar/BluePillar.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Pillar/BluePillar.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Pillar/GreenPillar.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Pillar/GreenPillar.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Pillar/Pillar.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Pillar/Pillar.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Pillar/PillarsArray.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Pillar/PillarsArray.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Pillar/RedPillar.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Pillar/RedPillar.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Play.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Play.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Player/ComputerPlayer.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Player/ComputerPlayer.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Player/HumanPlayer.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Player/HumanPlayer.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Player/Player.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Player/Player.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Unit/Archer.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Unit/Archer.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Unit/Medic.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Unit/Medic.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Unit/Thief.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Unit/Thief.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Unit/Unit.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Unit/Unit.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Unit/Warrior.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/src/Unit/Warrior.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/test/BattlefieldTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/test/BattlefieldTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/test/HandTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/test/HandTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/test/PillarsArrayTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/test/PillarsArrayTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/test/PlayTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/test/PlayTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/test/UnitTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/Library.dir/test/UnitTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/test/BattlefieldTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/test/BattlefieldTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/test/HandTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/test/HandTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/test/PillarTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/test/PillarTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/test/PillarsArrayTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/test/PillarsArrayTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/test/PlayTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/test/PlayTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/test/PlayerTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/test/PlayerTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/test/UnitTest.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/LibraryTest.dir/test/UnitTest.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/check.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/check.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/Library.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/Library.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/LibraryTest" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/LibraryTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/library/libLibrary.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/library/libLibrary.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/program/CMakeFiles/Program.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/program/CMakeFiles/Program.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/program/CMakeFiles/Program.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/program/CMakeFiles/Program.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/program/CMakeFiles/Program.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/program/CMakeFiles/Program.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/program/CMakeFiles/Program.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/program/CMakeFiles/Program.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/program/CMakeFiles/Program.dir/src/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/program/CMakeFiles/Program.dir/src/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/program/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/program/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/program/Program" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/program/Program" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/library/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Battlefield.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Battlefield.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Game.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Game.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Hand.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Hand.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Pillar/BluePillar.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Pillar/BluePillar.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Pillar/GreenPillar.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Pillar/GreenPillar.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Pillar/Pillar.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Pillar/Pillar.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Pillar/PillarsArray.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Pillar/PillarsArray.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Pillar/RedPillar.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Pillar/RedPillar.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Play.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Play.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Player/ComputerPlayer.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Player/ComputerPlayer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Player/HumanPlayer.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Player/HumanPlayer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Player/Player.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Player/Player.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Unit/Archer.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Unit/Archer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Unit/Medic.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Unit/Medic.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Unit/Thief.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Unit/Thief.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Unit/Unit.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Unit/Unit.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/include/Unit/Warrior.h" beforeDir="false" afterPath="$PROJECT_DIR$/library/include/Unit/Warrior.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Battlefield.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Battlefield.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Game.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Game.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Hand.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Hand.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Pillar/BluePillar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Pillar/BluePillar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Pillar/GreenPillar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Pillar/GreenPillar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Pillar/Pillar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Pillar/Pillar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Pillar/PillarsArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Pillar/PillarsArray.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Pillar/RedPillar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Pillar/RedPillar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Play.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Play.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Player/ComputerPlayer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Player/ComputerPlayer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Player/HumanPlayer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Player/HumanPlayer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Player/Player.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Player/Player.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Unit/Archer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Unit/Archer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Unit/Medic.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Unit/Medic.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Unit/Thief.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Unit/Thief.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Unit/Unit.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Unit/Unit.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/Unit/Warrior.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Unit/Warrior.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/test/BattlefieldTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/test/BattlefieldTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/test/HandTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/test/HandTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/test/PillarTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/test/PillarTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/test/PillarsArrayTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/test/PillarsArrayTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/test/PlayTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/test/PlayTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/test/PlayerTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/test/PlayerTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/test/UnitTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/library/test/UnitTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/program/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/program/src/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cwNFgfFf6aZbz4Go0PVNXdH40b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Pulpit/Gra/CPMB/project/trunk/project" />
+  </component>
+  <component name="RunManager" selected="CMake Application.LibraryTest">
+    <configuration name="Library" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="GameBaja" TARGET_NAME="Library" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="GameBaja" TARGET_NAME="LibraryTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="GameBaja" RUN_TARGET_NAME="LibraryTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="GameBaja" TARGET_NAME="Program" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="GameBaja" RUN_TARGET_NAME="Program">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="GameBaja" TARGET_NAME="check" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.LibraryTest" />
+      <item itemvalue="CMake Application.Library" />
+      <item itemvalue="CMake Application.Program" />
+      <item itemvalue="CMake Application.check" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="156001db-472b-4264-8659-faa5fde58e18" name="Default Changelist" comment="" />
+      <created>1591435594851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591435594851</updated>
+      <workItem from="1591435599991" duration="22000" />
+      <workItem from="1591795238779" duration="601000" />
+      <workItem from="1591797090838" duration="680000" />
+      <workItem from="1591880296952" duration="534000" />
+      <workItem from="1591977261871" duration="20000" />
+      <workItem from="1591977318791" duration="182000" />
+      <workItem from="1591977642967" duration="12352000" />
+      <workItem from="1592037807967" duration="29000" />
+      <workItem from="1592037951095" duration="2804000" />
+      <workItem from="1592043272038" duration="606000" />
+      <workItem from="1592056201606" duration="23000" />
+      <workItem from="1592123633483" duration="11000" />
+      <workItem from="1592123687167" duration="5707000" />
+      <workItem from="1592129557117" duration="2450000" />
+      <workItem from="1592145793859" duration="1904000" />
+      <workItem from="1592147833861" duration="1632000" />
+      <workItem from="1592149972951" duration="1492000" />
+      <workItem from="1592151802374" duration="143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="97" y="288" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591880396608">
+      <screen x="0" y="0" width="1278" height="1261" />
+    </state>
+    <state x="97" y="288" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1278.1261@0.0.1278.1261" timestamp="1591880396608" />
+    <state x="708" y="349" width="438" height="560" key="#com.intellij.ide.util.MemberChooser" timestamp="1591990629876">
+      <screen x="0" y="0" width="1859" height="1261" />
+    </state>
+    <state x="708" y="349" width="438" height="560" key="#com.intellij.ide.util.MemberChooser/0.0.1859.1261@0.0.1859.1261" timestamp="1591990629876" />
+    <state x="424" y="388" width="430" height="482" key="FileChooserDialogImpl" timestamp="1592056222887">
+      <screen x="0" y="0" width="1278" height="1261" />
+    </state>
+    <state x="424" y="388" key="FileChooserDialogImpl/0.0.1278.1261@0.0.1278.1261" timestamp="1592056222887" />
+    <state x="429" y="388" width="430" height="482" key="FileChooserDialogImpl/0.0.1292.1261@0.0.1292.1261" timestamp="1591435620158" />
+    <state width="1867" height="348" key="GridCell.Tab.0.bottom" timestamp="1592151945123">
+      <screen x="0" y="0" width="1913" height="1261" />
+    </state>
+    <state width="1232" height="348" key="GridCell.Tab.0.bottom/0.0.1278.1261@0.0.1278.1261" timestamp="1592127902503" />
+    <state width="1624" height="348" key="GridCell.Tab.0.bottom/0.0.1670.1260@0.0.1670.1260" timestamp="1592040924521" />
+    <state width="1762" height="348" key="GridCell.Tab.0.bottom/0.0.1808.1261@0.0.1808.1261" timestamp="1591979038618" />
+    <state width="1813" height="348" key="GridCell.Tab.0.bottom/0.0.1859.1261@0.0.1859.1261" timestamp="1592039041816" />
+    <state width="1867" height="348" key="GridCell.Tab.0.bottom/0.0.1913.1261@0.0.1913.1261" timestamp="1592151945123" />
+    <state width="1875" height="348" key="GridCell.Tab.0.bottom/0.0.1921.1261@0.0.1921.1261" timestamp="1592147689424" />
+    <state width="1986" height="348" key="GridCell.Tab.0.bottom/0.0.2032.1261@0.0.2032.1261" timestamp="1592128384400" />
+    <state width="1867" height="348" key="GridCell.Tab.0.center" timestamp="1592151945122">
+      <screen x="0" y="0" width="1913" height="1261" />
+    </state>
+    <state width="1232" height="348" key="GridCell.Tab.0.center/0.0.1278.1261@0.0.1278.1261" timestamp="1592127902501" />
+    <state width="1624" height="348" key="GridCell.Tab.0.center/0.0.1670.1260@0.0.1670.1260" timestamp="1592040924519" />
+    <state width="1762" height="348" key="GridCell.Tab.0.center/0.0.1808.1261@0.0.1808.1261" timestamp="1591979038617" />
+    <state width="1813" height="348" key="GridCell.Tab.0.center/0.0.1859.1261@0.0.1859.1261" timestamp="1592039041814" />
+    <state width="1867" height="348" key="GridCell.Tab.0.center/0.0.1913.1261@0.0.1913.1261" timestamp="1592151945122" />
+    <state width="1875" height="348" key="GridCell.Tab.0.center/0.0.1921.1261@0.0.1921.1261" timestamp="1592147689421" />
+    <state width="1986" height="348" key="GridCell.Tab.0.center/0.0.2032.1261@0.0.2032.1261" timestamp="1592128384395" />
+    <state width="1867" height="348" key="GridCell.Tab.0.left" timestamp="1592151945122">
+      <screen x="0" y="0" width="1913" height="1261" />
+    </state>
+    <state width="1232" height="348" key="GridCell.Tab.0.left/0.0.1278.1261@0.0.1278.1261" timestamp="1592127902497" />
+    <state width="1624" height="348" key="GridCell.Tab.0.left/0.0.1670.1260@0.0.1670.1260" timestamp="1592040924519" />
+    <state width="1762" height="348" key="GridCell.Tab.0.left/0.0.1808.1261@0.0.1808.1261" timestamp="1591979038616" />
+    <state width="1813" height="348" key="GridCell.Tab.0.left/0.0.1859.1261@0.0.1859.1261" timestamp="1592039041814" />
+    <state width="1867" height="348" key="GridCell.Tab.0.left/0.0.1913.1261@0.0.1913.1261" timestamp="1592151945122" />
+    <state width="1875" height="348" key="GridCell.Tab.0.left/0.0.1921.1261@0.0.1921.1261" timestamp="1592147689419" />
+    <state width="1986" height="348" key="GridCell.Tab.0.left/0.0.2032.1261@0.0.2032.1261" timestamp="1592128384390" />
+    <state width="1867" height="348" key="GridCell.Tab.0.right" timestamp="1592151945123">
+      <screen x="0" y="0" width="1913" height="1261" />
+    </state>
+    <state width="1232" height="348" key="GridCell.Tab.0.right/0.0.1278.1261@0.0.1278.1261" timestamp="1592127902502" />
+    <state width="1624" height="348" key="GridCell.Tab.0.right/0.0.1670.1260@0.0.1670.1260" timestamp="1592040924521" />
+    <state width="1762" height="348" key="GridCell.Tab.0.right/0.0.1808.1261@0.0.1808.1261" timestamp="1591979038617" />
+    <state width="1813" height="348" key="GridCell.Tab.0.right/0.0.1859.1261@0.0.1859.1261" timestamp="1592039041815" />
+    <state width="1867" height="348" key="GridCell.Tab.0.right/0.0.1913.1261@0.0.1913.1261" timestamp="1592151945123" />
+    <state width="1875" height="348" key="GridCell.Tab.0.right/0.0.1921.1261@0.0.1921.1261" timestamp="1592147689422" />
+    <state width="1986" height="348" key="GridCell.Tab.0.right/0.0.2032.1261@0.0.2032.1261" timestamp="1592128384398" />
+    <state width="1867" height="428" key="GridCell.Tab.1.bottom" timestamp="1592149416356">
+      <screen x="0" y="0" width="1913" height="1261" />
+    </state>
+    <state width="1762" height="428" key="GridCell.Tab.1.bottom/0.0.1808.1261@0.0.1808.1261" timestamp="1591978399076" />
+    <state width="1813" height="428" key="GridCell.Tab.1.bottom/0.0.1859.1261@0.0.1859.1261" timestamp="1591992158274" />
+    <state width="1867" height="428" key="GridCell.Tab.1.bottom/0.0.1913.1261@0.0.1913.1261" timestamp="1592149416356" />
+    <state width="1867" height="428" key="GridCell.Tab.1.center" timestamp="1592149416355">
+      <screen x="0" y="0" width="1913" height="1261" />
+    </state>
+    <state width="1762" height="428" key="GridCell.Tab.1.center/0.0.1808.1261@0.0.1808.1261" timestamp="1591978399075" />
+    <state width="1813" height="428" key="GridCell.Tab.1.center/0.0.1859.1261@0.0.1859.1261" timestamp="1591992158271" />
+    <state width="1867" height="428" key="GridCell.Tab.1.center/0.0.1913.1261@0.0.1913.1261" timestamp="1592149416355" />
+    <state width="1867" height="428" key="GridCell.Tab.1.left" timestamp="1592149416354">
+      <screen x="0" y="0" width="1913" height="1261" />
+    </state>
+    <state width="1762" height="428" key="GridCell.Tab.1.left/0.0.1808.1261@0.0.1808.1261" timestamp="1591978399075" />
+    <state width="1813" height="428" key="GridCell.Tab.1.left/0.0.1859.1261@0.0.1859.1261" timestamp="1591992158267" />
+    <state width="1867" height="428" key="GridCell.Tab.1.left/0.0.1913.1261@0.0.1913.1261" timestamp="1592149416354" />
+    <state width="1867" height="428" key="GridCell.Tab.1.right" timestamp="1592149416355">
+      <screen x="0" y="0" width="1913" height="1261" />
+    </state>
+    <state width="1762" height="428" key="GridCell.Tab.1.right/0.0.1808.1261@0.0.1808.1261" timestamp="1591978399076" />
+    <state width="1813" height="428" key="GridCell.Tab.1.right/0.0.1859.1261@0.0.1859.1261" timestamp="1591992158272" />
+    <state width="1867" height="428" key="GridCell.Tab.1.right/0.0.1913.1261@0.0.1913.1261" timestamp="1592149416355" />
+    <state x="615" y="458" key="com.intellij.ide.util.TipDialog" timestamp="1592151802600">
+      <screen x="0" y="0" width="1913" height="1261" />
+    </state>
+    <state x="411" y="458" key="com.intellij.ide.util.TipDialog/0.0.1278.1261@0.0.1278.1261" timestamp="1592123834466" />
+    <state x="306" y="458" key="com.intellij.ide.util.TipDialog/0.0.1292.1261@0.0.1292.1261" timestamp="1591435599310" />
+    <state x="396" y="458" key="com.intellij.ide.util.TipDialog/0.0.1670.1260@0.0.1670.1260" timestamp="1592043272117" />
+    <state x="429" y="458" key="com.intellij.ide.util.TipDialog/0.0.1808.1261@0.0.1808.1261" timestamp="1591977642479" />
+    <state x="441" y="458" key="com.intellij.ide.util.TipDialog/0.0.1859.1261@0.0.1859.1261" timestamp="1592037975316" />
+    <state x="615" y="458" key="com.intellij.ide.util.TipDialog/0.0.1913.1261@0.0.1913.1261" timestamp="1592151802600" />
+    <state x="618" y="458" key="com.intellij.ide.util.TipDialog/0.0.1921.1261@0.0.1921.1261" timestamp="1592145794035" />
+  </component>
+</project>

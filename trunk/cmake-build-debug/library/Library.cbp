@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Library"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\library\;CMake Files\program\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/student/Baja/project/trunk/cmake-build-debug/library"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="check">
+				<Option working_dir="/home/student/Baja/project/trunk/cmake-build-debug/library"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 check"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Library">
+				<Option output="/home/student/Baja/project/trunk/cmake-build-debug/library/libLibrary.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/student/Baja/project/trunk/cmake-build-debug/library"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/student/Baja/project/trunk/library/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 Library"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Library/fast">
+				<Option output="/home/student/Baja/project/trunk/cmake-build-debug/library/libLibrary.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/student/Baja/project/trunk/cmake-build-debug/library"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/student/Baja/project/trunk/library/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 Library/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LibraryTest">
+				<Option output="/home/student/Baja/project/trunk/cmake-build-debug/library/LibraryTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/student/Baja/project/trunk/cmake-build-debug/library"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/student/Baja/project/trunk/library/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 LibraryTest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LibraryTest/fast">
+				<Option output="/home/student/Baja/project/trunk/cmake-build-debug/library/LibraryTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/student/Baja/project/trunk/cmake-build-debug/library"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/student/Baja/project/trunk/library/include"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 LibraryTest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/student/Baja/project/trunk/cmake-build-debug/library/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Battlefield.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Game.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Hand.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Pillar/BluePillar.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Pillar/GreenPillar.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Pillar/Pillar.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Pillar/PillarsArray.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Pillar/RedPillar.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Play.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Player/ComputerPlayer.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Player/HumanPlayer.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Player/Player.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/RandomCard.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Strategy.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Unit/Archer.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Unit/Medic.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Unit/Thief.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Unit/Unit.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/Unit/Warrior.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/include/typedefs.h">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Battlefield.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Game.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Hand.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Pillar/BluePillar.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Pillar/GreenPillar.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Pillar/Pillar.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Pillar/PillarsArray.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Pillar/RedPillar.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Play.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Player/ComputerPlayer.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Player/HumanPlayer.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Player/Player.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/RandomCard.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Strategy.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Unit/Archer.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Unit/Medic.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Unit/Thief.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Unit/Unit.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/src/Unit/Warrior.cpp">
+			<Option target="Library"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/test/BattlefieldTest.cpp">
+			<Option target="Library"/>
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/test/GameTest.cpp">
+			<Option target="Library"/>
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/test/HandTest.cpp">
+			<Option target="Library"/>
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/test/PillarTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/test/PillarsArrayTest.cpp">
+			<Option target="Library"/>
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/test/PlayTest.cpp">
+			<Option target="Library"/>
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/test/PlayerTest.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/test/UnitTest.cpp">
+			<Option target="Library"/>
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/test/master.cpp">
+			<Option target="LibraryTest"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/library/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\library\"/>
+		</Unit>
+		<Unit filename="/home/student/Baja/project/trunk/program/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\program\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

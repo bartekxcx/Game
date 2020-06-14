@@ -1,0 +1,177 @@
+[
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Battlefield.cpp.o -c /home/student/Baja/project/trunk/library/src/Battlefield.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Battlefield.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Hand.cpp.o -c /home/student/Baja/project/trunk/library/src/Hand.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Hand.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Player/Player.cpp.o -c /home/student/Baja/project/trunk/library/src/Player/Player.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Player/Player.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Unit/Unit.cpp.o -c /home/student/Baja/project/trunk/library/src/Unit/Unit.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Unit/Unit.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Play.cpp.o -c /home/student/Baja/project/trunk/library/src/Play.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Play.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Pillar/Pillar.cpp.o -c /home/student/Baja/project/trunk/library/src/Pillar/Pillar.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Pillar/Pillar.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Game.cpp.o -c /home/student/Baja/project/trunk/library/src/Game.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Game.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Unit/Warrior.cpp.o -c /home/student/Baja/project/trunk/library/src/Unit/Warrior.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Unit/Warrior.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Unit/Thief.cpp.o -c /home/student/Baja/project/trunk/library/src/Unit/Thief.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Unit/Thief.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Unit/Archer.cpp.o -c /home/student/Baja/project/trunk/library/src/Unit/Archer.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Unit/Archer.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Unit/Medic.cpp.o -c /home/student/Baja/project/trunk/library/src/Unit/Medic.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Unit/Medic.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Player/HumanPlayer.cpp.o -c /home/student/Baja/project/trunk/library/src/Player/HumanPlayer.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Player/HumanPlayer.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Player/ComputerPlayer.cpp.o -c /home/student/Baja/project/trunk/library/src/Player/ComputerPlayer.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Player/ComputerPlayer.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Pillar/RedPillar.cpp.o -c /home/student/Baja/project/trunk/library/src/Pillar/RedPillar.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Pillar/RedPillar.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Pillar/GreenPillar.cpp.o -c /home/student/Baja/project/trunk/library/src/Pillar/GreenPillar.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Pillar/GreenPillar.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Pillar/BluePillar.cpp.o -c /home/student/Baja/project/trunk/library/src/Pillar/BluePillar.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Pillar/BluePillar.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Pillar/PillarsArray.cpp.o -c /home/student/Baja/project/trunk/library/src/Pillar/PillarsArray.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Pillar/PillarsArray.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/test/GameTest.cpp.o -c /home/student/Baja/project/trunk/library/test/GameTest.cpp",
+  "file": "/home/student/Baja/project/trunk/library/test/GameTest.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/test/PlayTest.cpp.o -c /home/student/Baja/project/trunk/library/test/PlayTest.cpp",
+  "file": "/home/student/Baja/project/trunk/library/test/PlayTest.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/test/HandTest.cpp.o -c /home/student/Baja/project/trunk/library/test/HandTest.cpp",
+  "file": "/home/student/Baja/project/trunk/library/test/HandTest.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/test/BattlefieldTest.cpp.o -c /home/student/Baja/project/trunk/library/test/BattlefieldTest.cpp",
+  "file": "/home/student/Baja/project/trunk/library/test/BattlefieldTest.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/test/UnitTest.cpp.o -c /home/student/Baja/project/trunk/library/test/UnitTest.cpp",
+  "file": "/home/student/Baja/project/trunk/library/test/UnitTest.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/test/PillarsArrayTest.cpp.o -c /home/student/Baja/project/trunk/library/test/PillarsArrayTest.cpp",
+  "file": "/home/student/Baja/project/trunk/library/test/PillarsArrayTest.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/Strategy.cpp.o -c /home/student/Baja/project/trunk/library/src/Strategy.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/Strategy.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Library.dir/src/RandomCard.cpp.o -c /home/student/Baja/project/trunk/library/src/RandomCard.cpp",
+  "file": "/home/student/Baja/project/trunk/library/src/RandomCard.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/master.cpp.o -c /home/student/Baja/project/trunk/library/test/master.cpp",
+  "file": "/home/student/Baja/project/trunk/library/test/master.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/GameTest.cpp.o -c /home/student/Baja/project/trunk/library/test/GameTest.cpp",
+  "file": "/home/student/Baja/project/trunk/library/test/GameTest.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/PlayTest.cpp.o -c /home/student/Baja/project/trunk/library/test/PlayTest.cpp",
+  "file": "/home/student/Baja/project/trunk/library/test/PlayTest.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/HandTest.cpp.o -c /home/student/Baja/project/trunk/library/test/HandTest.cpp",
+  "file": "/home/student/Baja/project/trunk/library/test/HandTest.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/BattlefieldTest.cpp.o -c /home/student/Baja/project/trunk/library/test/BattlefieldTest.cpp",
+  "file": "/home/student/Baja/project/trunk/library/test/BattlefieldTest.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/PillarTest.cpp.o -c /home/student/Baja/project/trunk/library/test/PillarTest.cpp",
+  "file": "/home/student/Baja/project/trunk/library/test/PillarTest.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/PlayerTest.cpp.o -c /home/student/Baja/project/trunk/library/test/PlayerTest.cpp",
+  "file": "/home/student/Baja/project/trunk/library/test/PlayerTest.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/UnitTest.cpp.o -c /home/student/Baja/project/trunk/library/test/UnitTest.cpp",
+  "file": "/home/student/Baja/project/trunk/library/test/UnitTest.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/library",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/LibraryTest.dir/test/PillarsArrayTest.cpp.o -c /home/student/Baja/project/trunk/library/test/PillarsArrayTest.cpp",
+  "file": "/home/student/Baja/project/trunk/library/test/PillarsArrayTest.cpp"
+},
+{
+  "directory": "/home/student/Baja/project/trunk/cmake-build-debug/program",
+  "command": "/usr/bin/g++   -I/home/student/Baja/project/trunk/library/include   -Wall -Wpedantic -Wextra -g3 -gdwarf-4   -std=gnu++11 -o CMakeFiles/Program.dir/src/main.cpp.o -c /home/student/Baja/project/trunk/program/src/main.cpp",
+  "file": "/home/student/Baja/project/trunk/program/src/main.cpp"
+}
+]
